@@ -497,5 +497,5 @@ It is simply a injector and executor for Outverse to help develop the anti-cheat
 
 
 
-It also may or may not work on roblox :)
+It also may or may not work on roblox 
 Itf
